@@ -13,7 +13,7 @@
 
 <!-- SOCIAL BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/letícia-simões-rodrigues)
-[![Gmail](https://img.shields.io/badge/Gmail-EC407A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EC407A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:letisiasr@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-64B5F6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://Letrishaw.github.io/sql-analise-vendas)
 
 </div>
