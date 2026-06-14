@@ -7,7 +7,7 @@
 <a href="#-sobre-mim"><img src="https://img.shields.io/badge/🇧🇷_Português-64B5F6?style=flat-square" alt="Português"/></a>
 
 <!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=28&duration=3000&pause=1000&color=EC407A&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Hi+%F0%9F%91%8B+I'm+Leticia;Junior+Analyst+%7C+SQL+%7C+Power+Automate" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=28&duration=3000&pause=1000&color=EC407A&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Hi+%F0%9F%91%8B+I'm+Leticia;Product+Manager+%7C+Claude Code+%7C+SQL+%7C+Power+Automate" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -24,15 +24,15 @@
 
 ```yaml
 name: "Leticia"
-role: "Junior Analyst"
+role: "Product Manager"
 location: "Brazil 🇧🇷"
-focus: ["SQL", "Power Automate", "Data Analysis", "Process Automation"]
+focus: ["Claude Code", "Roadmap", "Data Analysis", "Process Automation"]
 currently_learning: ["Power BI", "Python"]
 looking_for: "Remote (Home Office) opportunities — CLT"
 fun_fact: "I turn hours of manual work into one-click automations ⚡"
 ```
 
-I'm a **Junior Analyst** passionate about solving real problems with **SQL** and **Power Automate**. I love automating repetitive processes and turning raw data into clear, actionable insights. I also have a knack for creating compelling presentations that tell a story with data.
+I'm a **PMO** passionate about solving real problems with **Claude Code** and **Process Automation**. I love automating repetitive processes and turning raw data into clear, actionable insights. I also have a knack for creating compelling presentations that tell a story with data.
 
 ---
 
@@ -104,15 +104,15 @@ I'm a **Junior Analyst** passionate about solving real problems with **SQL** and
 
 ```yaml
 nome: "Leticia"
-cargo: "Analista Junior"
+cargo: "Product Manager"
 local: "Brasil 🇧🇷"
-foco: ["SQL", "Power Automate", "Análise de Dados", "Automação de Processos"]
+foco: ["Claude Code", "Road Map", "Análise de Dados", "Automação de Processos"]
 aprendendo: ["Power BI", "Python"]
 buscando: "Oportunidades remotas (Home Office) — CLT"
 curiosidade: "Transformo horas de trabalho manual em automações de um clique ⚡"
 ```
 
-Sou **Analista Junior** apaixonada por resolver problemas reais com **SQL** e **Power Automate**. Adoro automatizar processos repetitivos e transformar dados brutos em insights claros e acionáveis. Também tenho facilidade para criar apresentações que contam histórias com dados.
+Sou **PMO** apaixonada por resolver problemas reais com **Claude Code** e **Automatização de processos**. Adoro automatizar processos repetitivos e transformar dados brutos em insights claros e acionáveis. Também tenho facilidade para criar apresentações que contam histórias com dados.
 
 > 💡 *Todos os projetos incluem documentação completa, demos interativas e são reproduzíveis.*
 
