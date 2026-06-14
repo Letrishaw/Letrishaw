@@ -7,7 +7,7 @@
 <a href="#-sobre-mim"><img src="https://img.shields.io/badge/🇧🇷_Português-64B5F6?style=flat-square" alt="Português"/></a>
 
 <!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=28&duration=3000&pause=1000&color=EC407A&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Hi+%F0%9F%91%8B+I'm+Leticia;Product+Manager+%7C+Claude Code+%7C+SQL+%7C+Power+Automate" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=28&duration=3000&pause=1000&color=EC407A&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Hi+%F0%9F%91%8B+I'm+Leticia;PM+%7C+Claude+Code+%7C+Process+Automation" alt="Typing SVG" /></a>
 
 <br/>
 
